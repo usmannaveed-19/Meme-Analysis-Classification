@@ -1,5 +1,7 @@
 # Meme-Analysis-Classification
-Multi-Modal vs Multi Modal Classification - Neural Networks - using PyTorch - Memotional Dataset
+Memotion Dataset 7k - Multi-Modal vs Multi Modal Classification - Neural Networks - using PyTorch 
+
+Dataset Link: https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k
 
 I have classified Memes using neural networks working with PyTorch. 
 First of all, 
